@@ -1,6 +1,6 @@
 ---
 name: networked-systems
-description: Provides information about the Networked Systems (H) course (COMPSCI4012) at the University of Glasgow along with supporting reference material about the design of the Internet. Use when the user is asking questions about the material in that course, including to support their exam revision, and to answer general questions about the design and operation of the Internet.
+description: Provides information about the Networked Systems (H) course (also known as NS(H) or COMPSCI4012) at the University of Glasgow along with supporting reference material about the design of the Internet. Use when the user is asking questions about the material in that course, including to support their exam revision, and to answer general questions about the design and operation of the Internet.
 license: CC-BY-4.0
 metadata:
   author: "Colin Perkins <csp@csperkins.org>"
