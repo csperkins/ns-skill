@@ -5,5 +5,5 @@ at the University of Glasgow School of Computing Science, packaged as
 a reusable [Agent Skill](https://agentskills.io/).
 
 To use, clone the repo at `https://github.com/csperkins/ns-skill` and
-move the `networked-systems` folder it contains to `~/.agents/skills`
+add the `networked-systems` folder it contains to your LLM agent.
 
