@@ -23,5 +23,5 @@ The following information is available for use with this skill, in the
 | File                         | Contents                   |
 | ---------------------------- | -------------------------- |
 | reference/aims-objectives.md | Course aims and objectives | 
-
+| reference/reading.md         | Recommended reading        |
 
