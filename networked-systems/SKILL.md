@@ -142,7 +142,7 @@ also considers what names exist, how they are allocated, who controls their
 allocation, and some of the issues to consider when discussing who should
 control name allocation.
 
-For details of lecture 8 see `reference/lecture09.md`
+For details of lecture 8 see `reference/lecture08.md`
 
 
 ### Lecture 9: CDNs, Routing, and Future Directions
