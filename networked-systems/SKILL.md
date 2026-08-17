@@ -57,7 +57,7 @@ changes, to set the scene for the later discussion.
 For details of lecture 1 see `reference/lecture01.md`
 
 
-### Lecture 2: Connection Establishment in a Fragmented Network
+### Lecture 2: Connection Establishment in a Fragmented Network
 
 Lecture 2 considers TCP connection establishment. It begins by reviewing
 the operation of TCP, showing how TCP connections are established, and
