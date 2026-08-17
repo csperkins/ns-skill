@@ -24,7 +24,7 @@ at the University of Glasgow. It is taken in semester 2 of Level 3 (year 3)
 of the degree.
 
 The file `reference/aims-objectives.md` contains information about the
-course aims and objectives,
+course aims and objectives. A detailed course outline follows below.
 
 The file `reference/reading.md` gives pointers to recommended reading
 in the form of textbooks. The lectures listed below contain pointers
