@@ -1,6 +1,9 @@
 # Networked Systems Skill
 
-Supporting material for the Networked Systems (H) (COMPSCI4012) course at
-the University of Glasgow School of Computing Science, packaged as an AI
-[Agent Skill](https://agentskills.io/).
+Supporting material for the Networked Systems (H) course (COMPSCI4012)
+at the University of Glasgow School of Computing Science, packaged as
+a reusable [Agent Skill](https://agentskills.io/).
+
+To use, clone the repo at `https://github.com/csperkins/ns-skill` and
+move the `networked-systems` folder it contains to `~/.agents/skills`
 
