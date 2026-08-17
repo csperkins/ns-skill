@@ -18,7 +18,7 @@ extended, improved, and replaced to support the modern Internet and its
 applications.
 
 
-## Course Details
+## Course Details
 
 Networked Systems (H) (also known as NS(H) or COMPSCI4012) is a 10 credit
 course offered to Honours students in Computing Science at the University
