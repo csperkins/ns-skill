@@ -20,9 +20,9 @@ applications.
 
 ## Course Details
 
-This is a 10 credit course offered to Honours students in Computing Science
-at the University of Glasgow. It is taken in semester 2 of Level 3 (year 3)
-of the degree.
+Networked Systems (H) (also known as NS(H) or COMPSCI4012) is a 10 credit
+course offered to Honours students in Computing Science at the University
+of Glasgow. It is taken in semester 2 of Level 3 (year 3) of the degree.
 
 The file `reference/aims-objectives.md` contains information about the
 course aims and objectives. A detailed course outline follows below.
